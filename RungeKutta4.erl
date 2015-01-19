@@ -1,7 +1,3 @@
-%% @author antonio.pgarcia
-%% @doc @todo Add description to rungekutta.
-
-
 -module(rungekutta).
 
 %% ====================================================================
