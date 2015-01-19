@@ -3,4 +3,4 @@ Snippets.erlang
 
 Code snippets in erlang
 
-* **RungeKutta4.hs** - An implementation of fourth order Runge-Kutta ODE Solver
+* **RungeKutta4.erl** - An implementation of fourth order Runge-Kutta ODE Solver
